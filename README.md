@@ -41,4 +41,5 @@ python manage.py createsuperuser
 ```
 
 
-
+## Running tests
+python manage.py test polls
